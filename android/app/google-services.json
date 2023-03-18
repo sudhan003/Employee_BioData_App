@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26335041873",
+    "project_id": "digisailorbd-app",
+    "storage_bucket": "digisailorbd-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26335041873:android:ad62791e712aeef0aa1b70",
+        "android_client_info": {
+          "package_name": "com.example.digisailor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26335041873-vtb3bkiahhudd542rlanlm606qls2gd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqwONbZfGDXlHjR22gJ8wuZmKIqIGXaR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26335041873-vtb3bkiahhudd542rlanlm606qls2gd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
